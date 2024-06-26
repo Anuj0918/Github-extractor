@@ -1,3 +1,58 @@
+
+# GitHub Repositories Fetcher
+
+A simple web application that integrates with the GitHub API to fetch and display a list of repositories for a given user. This project is built using React.
+
+## Features
+
+- User input field to specify which GitHub username's repositories to display.
+- Fetches public repositories of the specified user using the GitHub API.
+- Displays the list of repositories including the name and a link to the GitHub page.
+- error handling for non-existent usernames or users with no public repositories.
+- Basic styling applied using CSS.
+
+## Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed on your machine:
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/anuj0918/github-repo-fetcher.git
+   cd github-repo-fetcher
+
+### `npm install`
+
+Start the development server:
+
+### `npm start`
+
+### Open your browser and navigate to http://localhost:3000.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
