@@ -1,1 +1,33 @@
+.main {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  input {
+    padding: 8px;
+    margin-right: 10px;
+    width: 200px;
+  }
 
+button {
+    padding: 8px;
+    color: white;
+    background-color: #0366d6;
+  }
+  button:hover {
+    background-color: #205493;
+}
+  
+  .error {
+    color: red;
+    margin-top: 10px;
+  }
+  
+  div a {
+    text-decoration: none;
+    color: blue;
+  }
+  
+  div a:hover {
+    text-decoration: underline;
+  }
