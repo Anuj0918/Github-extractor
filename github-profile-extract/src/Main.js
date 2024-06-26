@@ -36,7 +36,7 @@ const Main = () => {
         onChange={(e) => setUsername(e.target.value)}
         placeholder="Enter GitHub username"
       />
-      <button onClick={fetchRepos}>Fetch Repositories</button>
+      <button onClick={fetchRepos}> Get Repositories</button>
       {error && <p className="error">{error}</p>}
       <Repolist repos={repos} />
     </div>
