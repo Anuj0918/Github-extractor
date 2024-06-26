@@ -1,5 +1,5 @@
 
-# GitHub Repositories Fetcher
+# GitHub Extractor
 
 A simple web application that integrates with the GitHub API to fetch and display a list of repositories for a given user. This project is built using React.
 
